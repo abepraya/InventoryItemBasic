@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Inline local variable &apos;inventory.ProductTester.main().product&apos; in &apos;inventory.ProductTester.main()&apos;&#x0D;&#x0A;- Original project: &apos;src&apos;&#x0D;&#x0A;- Original element: &apos;inventory.ProductTester.main().product&apos;" description="Inline local variable &apos;product&apos;" id="org.eclipse.jdt.ui.inline.temp" input="/&lt;inventory{ProductTester.java" selection="1422 21" stamp="1601785209092" version="1.0"/>
+</session>

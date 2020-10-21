@@ -1,0 +1,110 @@
+
+^
+java:S1199¶"-Extract this nested code block into a method.(·ÿ½äûÿÿÿÿHIRMINORZ
+CODE_SMELL
+^
+java:S1199»"-Extract this nested code block into a method.(ğÁ–ÓûÿÿÿÿHJRMINORZ
+CODE_SMELL
+^
+java:S1199À"-Extract this nested code block into a method.(úÀôãùÿÿÿÿHKRMINORZ
+CODE_SMELL
+Y
+java:S1199Å"-Extract this nested code block into a method.(ÎŞèºHLRMINORZ
+CODE_SMELL
+^
+java:S1199Ê"-Extract this nested code block into a method.(Í‡¬‰úÿÿÿÿHMRMINORZ
+CODE_SMELL
+X
+java:S1659"(Declare "menuChoice" on a separate line.(­ŒéëûÿÿÿÿHNRMINORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(¤“¯•HORMAJORZ
+CODE_SMELL
+h	java:S106"9Replace this use of System.out or System.err by a logger.(¿ŸìøÿÿÿÿHPRMAJORZ
+CODE_SMELL
+P
+java:S1659$"%Declare "tempQty" on a separate line.(ï®È¸HQRMINORZ
+CODE_SMELL
+h	java:S106*"9Replace this use of System.out or System.err by a logger.(éªøêùÿÿÿÿHRRMAJORZ
+CODE_SMELL
+h	java:S106,"9Replace this use of System.out or System.err by a logger.(ß“„øÿÿÿÿÿHSRMAJORZ
+CODE_SMELL
+h	java:S106."9Replace this use of System.out or System.err by a logger.(ô»ÃóúÿÿÿÿHTRMAJORZ
+CODE_SMELL
+b	java:S1060"9Replace this use of System.out or System.err by a logger.(êâÊ8HURMAJORZ
+CODE_SMELL
+h	java:S1062"9Replace this use of System.out or System.err by a logger.(²èõ±ûÿÿÿÿHVRMAJORZ
+CODE_SMELL
+b	java:S1068"9Replace this use of System.out or System.err by a logger.(™éİ HWRMAJORZ
+CODE_SMELL
+h	java:S106<"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHXRMAJORZ
+CODE_SMELL
+c	java:S106H"9Replace this use of System.out or System.err by a logger.(ÒÏ÷ÑHYRMAJORZ
+CODE_SMELL
+c	java:S106I"9Replace this use of System.out or System.err by a logger.(ïÉÆHZRMAJORZ
+CODE_SMELL
+h	java:S106N"9Replace this use of System.out or System.err by a logger.(°¬îûÿÿÿÿH[RMAJORZ
+CODE_SMELL
+h	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ó•ƒœûÿÿÿÿH\RMAJORZ
+CODE_SMELL
+h	java:S106T"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿH]RMAJORZ
+CODE_SMELL
+h	java:S106a"9Replace this use of System.out or System.err by a logger.(ò§ñËıÿÿÿÿH^RMAJORZ
+CODE_SMELL
+h	java:S106b"9Replace this use of System.out or System.err by a logger.(ÀêÀÛüÿÿÿÿH_RMAJORZ
+CODE_SMELL
+h	java:S106c"9Replace this use of System.out or System.err by a logger.( ‚–úÿÿÿÿH`RMAJORZ
+CODE_SMELL
+h	java:S106d"9Replace this use of System.out or System.err by a logger.(åÄ¬ÿüÿÿÿÿHaRMAJORZ
+CODE_SMELL
+h	java:S106e"9Replace this use of System.out or System.err by a logger.(ïÚâÀşÿÿÿÿHbRMAJORZ
+CODE_SMELL
+c	java:S106f"9Replace this use of System.out or System.err by a logger.(·—şùHcRMAJORZ
+CODE_SMELL
+h	java:S106i"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHdRMAJORZ
+CODE_SMELL
+
+java:S3457v"Q%n should be used in place of \n to produce the platform-specific line separator.(åÅÚ¹úÿÿÿÿHeRMAJORZ
+CODE_SMELL
+h	java:S106v"9Replace this use of System.out or System.err by a logger.(åÅÚ¹úÿÿÿÿHfRMAJORZ
+CODE_SMELL
+|
+java:S3457w"Q%n should be used in place of \n to produce the platform-specific line separator.(ç—¶çHgRMAJORZ
+CODE_SMELL
+c	java:S106w"9Replace this use of System.out or System.err by a logger.(ç—¶çHhRMAJORZ
+CODE_SMELL
+h	java:S106|"9Replace this use of System.out or System.err by a logger.(˜ûÔ ÿÿÿÿÿHiRMAJORZ
+CODE_SMELL
+i	java:S106€"9Replace this use of System.out or System.err by a logger.(ÿ¶ïÆşÿÿÿÿHjRMAJORZ
+CODE_SMELL
+i	java:S106„"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿHkRMAJORZ
+CODE_SMELL
+Z
+java:S1659")Declare "updateValue" on a separate line.(çÿŒ¡üÿÿÿÿHlRMINORZ
+CODE_SMELL
+d	java:S106‘"9Replace this use of System.out or System.err by a logger.(Å€æÿHmRMAJORZ
+CODE_SMELL
+i	java:S106”"9Replace this use of System.out or System.err by a logger.(×»Ê¹ùÿÿÿÿHnRMAJORZ
+CODE_SMELL
+d	java:S106˜"9Replace this use of System.out or System.err by a logger.(ù¢„ØHoRMAJORZ
+CODE_SMELL
+Z
+java:S1659")Declare "updateValue" on a separate line.(ëñˆ¶şÿÿÿÿHpRMINORZ
+CODE_SMELL
+i	java:S106¢"9Replace this use of System.out or System.err by a logger.(ÁŠşİøÿÿÿÿHqRMAJORZ
+CODE_SMELL
+i	java:S106¥"9Replace this use of System.out or System.err by a logger.(õã·èùÿÿÿÿHrRMAJORZ
+CODE_SMELL
+d	java:S106©"9Replace this use of System.out or System.err by a logger.(ù¢„ØHsRMAJORZ
+CODE_SMELL
+d	java:S106·"9Replace this use of System.out or System.err by a logger.(ªÈ‡ÈHtRMAJORZ
+CODE_SMELL
+i	java:S106¼"9Replace this use of System.out or System.err by a logger.(Ô¦‰ÓùÿÿÿÿHuRMAJORZ
+CODE_SMELL
+i	java:S106Á"9Replace this use of System.out or System.err by a logger.(§ÒÜõøÿÿÿÿHvRMAJORZ
+CODE_SMELL
+i	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ÒŒâøÿÿÿÿHwRMAJORZ
+CODE_SMELL
+d	java:S106Ë"9Replace this use of System.out or System.err by a logger.(¬œäÔHxRMAJORZ
+CODE_SMELL
+i	java:S106Ï"9Replace this use of System.out or System.err by a logger.(şñ‚ŸıÿÿÿÿHyRMAJORZ
+CODE_SMELL
